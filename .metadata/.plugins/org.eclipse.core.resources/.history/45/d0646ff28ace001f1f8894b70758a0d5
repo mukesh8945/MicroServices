@@ -1,0 +1,9 @@
+package in.mukesh.nit;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@RequestMapping("/payment")
+public class PaymentApplication {
+	
+
+}
